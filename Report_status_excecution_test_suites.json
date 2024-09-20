@@ -1,0 +1,25 @@
+{
+    "test_1": {
+        "suite": "Test_Suite_Apertura_Cajero_Principal",
+        "name": "test_w010101_apertura_de_inicio_de_dia_253015",
+        "status": "OK"
+    },
+    "test_2": {
+        "suite": "Test_Suite_Apertura_Cajero_Principal",
+        "name": "test_w010101_apertura_de_estacion_cajero_253016",
+        "status": "OK"
+    },
+    "test_3": {
+        "suite": "Test_Suite_Captacion_Retiro",
+        "name": "test_w010203_retiro_efectivo_deslizando_tarjeta_329392",
+        "status": "FAILED"
+    },
+    "test_4": {
+        "suite": "Test_Suite_Captacion_Retiro",
+        "name": "test_w010203_retiro_efectivo_numero_cuenta_292",
+        "status": "FAILED"
+    },
+    "exitosos": 2,
+    "fallidos": 2,
+    "totales": 4
+}
